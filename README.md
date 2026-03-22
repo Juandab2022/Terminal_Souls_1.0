@@ -120,7 +120,7 @@ Controls enemy decisions:
 
 ---
 
-"winner_verfication(...)"
+"check_winner...)"
 
 Checks if:
 
